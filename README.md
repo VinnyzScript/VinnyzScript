@@ -42,5 +42,6 @@ Neste espaço compartilho meus projetos, experiências práticas e estudos relac
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/vin%C3%ADcius-henrique-ferreira-7a77562a2/
+- Gmail : viniciushenriqueferreira6@gmail.com
 
 ⭐ Sempre aprendendo, praticando e evoluindo.
