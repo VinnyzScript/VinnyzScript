@@ -20,7 +20,7 @@ Gosto de explorar programação, estrutura de sistemas, bancos de dados e soluç
 - **Área de interesse:** Desenvolvimento Backend
 - **Formação:** Engenharia de Software
 - **Linguagens:** Java, Python e C
-- **Banco de dados:** SQL
+- **Banco de dados:** MySQL
 - **Versionamento:** Git e GitHub
 
 ---
@@ -29,16 +29,39 @@ Gosto de explorar programação, estrutura de sistemas, bancos de dados e soluç
 
 | Área | Tecnologias e conceitos |
 |---|---|
-| Linguagens | Java, Python, C |
-| Banco de dados | SQL, MySQL |
-| Desenvolvimento | Lógica de programação, orientação a objetos |
-| Ferramentas | Git, GitHub |
+| Linguagens | Java, Python e C |
+| Banco de dados | MySQL |
+| Desenvolvimento | Lógica de programação e orientação a objetos |
+| Ferramentas | Git e GitHub |
+
+---
 
 ## `> tech_stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github&theme=dark" />
+
+<a href="https://dev.java/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="55" alt="Java" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python" />
+</a>
+<a href="https://en.cppreference.com/w/c/language" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="55" alt="C" />
+</a>
+<a href="https://dev.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" alt="Git" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" alt="GitHub" />
+</a>
+
 </div>
+
+---
 
 ## `> currently_learning`
 
@@ -48,15 +71,21 @@ Gosto de explorar programação, estrutura de sistemas, bancos de dados e soluç
 - Boas práticas de programação
 - Arquitetura e organização de software
 
+---
+
 ## `> featured_projects`
 
 <div align="center">
-<a href="https://github.com/SEU-USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20my%20repositories-18181B?style=for-the-badge&logo=github&logoColor=C4A1FF" />
+
+<a href="https://github.com/VinnyzScript?tab=repositories">
+  <img src="https://img.shields.io/badge/MEUS%20REPOSITÓRIOS-18181B?style=for-the-badge&logo=github&logoColor=C4A1FF" alt="Meus repositórios" />
 </a>
+
 </div>
 
 Aqui ficam meus projetos, experimentos e aplicações desenvolvidas durante minha jornada na programação.
+
+---
 
 ## `> developer_mindset`
 
@@ -73,15 +102,20 @@ public class Developer {
 }
 ```
 
+---
+
 ## `> connect`
 
 <div align="center">
 
-<a href="https://github.com/SEU-USUARIO">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=C4A1FF" />
+<a href="https://github.com/VinnyzScript">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=C4A1FF" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-henrique-ferreira-7a77562a2">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=C4A1FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=C4A1FF" alt="LinkedIn" />
+</a>
+<a href="mailto:viniciushenriqueferreira6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=C4A1FF" alt="Gmail" />
 </a>
 
 <br/><br/>
